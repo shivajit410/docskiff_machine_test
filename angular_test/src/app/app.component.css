@@ -1,0 +1,12 @@
+.outer{
+    display: flex;
+    flex-direction: row;
+}
+
+.inner {  
+    margin: 5px;  
+    padding: 5px;
+    width: fit-content;
+    border-radius: 25px;  
+    border: 1px solid #000;  
+}
